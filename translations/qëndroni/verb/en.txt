@@ -1,0 +1,3 @@
+stand
+remain
+stay
